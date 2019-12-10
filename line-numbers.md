@@ -1,17 +1,21 @@
 #### 1 Anthea was here
 #### 2
-<<<<<<< HEAD
+
 #### 3 Hello
 #### 4 
-=======
+
 #### 3 
 #### 4
->>>>>>> 6c17f1354cc47093dff828442b811f5d38d3421f
+
 #### 5 HEY
 #### 6
-#### 7
+#### 7 text
 #### 8
+
 #### 9 GitHub is really good
+
+#### 9 GitHub is awesome
+
 #### 10
 #### 11
 #### 12
